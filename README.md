@@ -1,5 +1,6 @@
 # Laptop Market Analysis Tool
 
+DATA LINK: https://www.microcenter.com/search/search_results.aspx?N=4294967288&NTK=all&sortby=match&rpp=96 
 # Overview
 This is a web scraping project using Selenium Python to extract the laptop search query data from Microcenter to help answer the question of "Which laptop should I buy?" using the prices and rating.  We extract the laptop name, the graphics card, cpu processor, RAM, harddrive, the original price, the current price, and the rating.  
 
