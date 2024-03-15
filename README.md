@@ -2,7 +2,7 @@
 
 DATA LINK: https://www.microcenter.com/search/search_results.aspx?N=4294967288&NTK=all&sortby=match&rpp=96 
 # Overview
-This is a web scraping project using Selenium Python to extract the laptop search query data from Microcenter to help answer the question of "Which laptop should I buy?" using the prices and rating.  We extract the laptop name, the graphics card, cpu processor, RAM, harddrive, the original price, the current price, and the rating.  
+This is a web scraping project using Selenium Python to extract the laptop search query data from Microcenter to help answer the question of "Which laptop should I buy?" using the prices and rating of each laptop.  We extract the laptop name, the graphics card, cpu processor, RAM, harddrive, the original price, the current price, and the rating from the laptop entries within the search query page. 
 
 # Features
 **Automated Data Collection**: Python Selenium to navigate and extract laptop data from the Microcenter search query.  This data is then put into a Pandas dataframe to prepare it for data cleaning.
