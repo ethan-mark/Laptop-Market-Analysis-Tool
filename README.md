@@ -10,7 +10,7 @@ This is a web scraping project using Selenium Python to extract the laptop searc
 *_It is important to note that some of the laptop entries do not have an original price or do not have any ratings, but are kept within the data._*
 
 
-*_It is also important to note that there are blank cells within some of the rows.  These are not removed, as it is important to see what each laptop offers and what it does not have.*_*
+*_It is also important to note that there are blank cells within some of the rows.  These are not removed, as it is important to see what each laptop offers and what it does not have._*
 
 **Data Analysis**: Analysis on collected data to identify the best value laptops based on user-defined criteria (e.g., price, performance, graphics card, rating).
 
