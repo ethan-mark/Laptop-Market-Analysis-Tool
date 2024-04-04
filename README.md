@@ -26,10 +26,10 @@ Additional Python libraries: pandas for data manipulation.
 # SQL Preview
 | INDEX  | NAME | CPU_PROCESSOR | GRAPHICS_CARD | RAM | HARD_DRIVE | RATING | ORIGINAL_PRICE | CURRENT_PRICE | MONEY_SAVED | DISCOUNT_PERCENT |
 |-------------| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|222|HP ZBook Studio G9 Mobile Workstation 16" Laptop Computer - Silver|Intel Core i9 12900H 1.8GHz Processor|NVIDIA RTX A2000 8GB GDDR6|32GB DDR5-4800 RAM| 1TB Solid State Drive|4.8|2999.99|1399.99|1600|0.53|
-|54|HP ZBook Firefly G9 Mobile Workstation 16" Laptop Computer - Silver	| Intel Core i5 12th Gen 1245U 1.6GHz Processor	| NVIDIA Quadro T550 4GB GDDR6	| 16GB DDR5-4800 RAM	| 256GB Solid State Drive|	5	|1969.99	|599.99	|1370|	0.70|
-| 79	|Apple MacBook Pro MK1A3LL/A (Late 2021) 16.2" Laptop Computer (Refurbished) - Space Gray	| Apple M1 Max 10-Core CPU	| 32-Core GPU/16-Core Neural Engine	| 32GB Unified Memory	|NO RATINGS | 1TB Solid State Drive	|	2974.99|	1899.99	|1075	|0.36
-| 129	|Acer Predator Triton X PTX17-71-95HW 17.0" Gaming Laptop Computer - Abyssal Black	| Intel Core i9 13th Gen 13900HX 1.6GHz Processor	| NVIDIA GeForce RTX 4090 16GB GDDR6|	 64GB DDR5-5200 RAM|	 2TB Solid State Drive|	5	|3799.99	|2799.99|	1000	|0.26|
-| 290|	Dell Alienware x16 R1 16" Gaming Laptop Computer - Lunar Silver	| Intel Core i9 13th Gen 13900HK 1.9GHz Processor	| NVIDIA GeForce RTX 4080 12GB GDDR6|32GB LPDDR5-6000 RAM	| 1TB Solid State Drive|	4.9|	3599.99|	2599.99	|1000	|0.28|
-| 135|	Razer Blade 18 (2023) 18" Gaming Laptop Computer - Black	| Intel Core i9 13th Gen 13950HX 1.6GHz Processor	| NVIDIA GeForce RTX 4090 16GB GDDR6	| 32GB DDR5-5600 RAM	| 1TB SSD+1TB SSD	|4.5|	4499.99	|3699.99|	800	|0.18|
+|222|HP ZBook Studio|Intel Core i9 12900H 1.8GHz |NVIDIA RTX A2000 8GB GDDR6|32GB DDR5-4800 RAM| 1TB Solid State Drive|4.8|2999.99|1399.99|1600|0.53|
+|54|HP ZBook Firefly | Intel Core i5 12th Gen 1245U 1.6GHz| NVIDIA Quadro T550 4GB GDDR6	| 16GB DDR5-4800 RAM	| 256GB Solid State Drive|	5	|1969.99	|599.99	|1370|	0.70|
+| 79	|Apple MacBook Pro	| Apple M1 Max 10-Core CPU	| 32-Core GPU/16-Core Neural Engine	| 32GB Unified Memory	|1TB Solid State Drive | NULL	|	2974.99|	1899.99	|1075	|0.36
+| 129	|Acer Predator Triton 	| Intel Core i9 13th Gen 13900HX 1.6GHz	| NVIDIA GeForce RTX 4090 16GB GDDR6|	 64GB DDR5-5200 RAM|	 2TB Solid State Drive|	5	|3799.99	|2799.99|	1000	|0.26|
+| 290|	Dell Alienware x16 	| Intel Core i9 13th Gen 13900HK 1.9GHz 	| NVIDIA GeForce RTX 4080 12GB GDDR6|32GB LPDDR5-6000 RAM	| 1TB Solid State Drive|	4.9|	3599.99|	2599.99	|1000	|0.28|
+| 135|	Razer Blade 18 	| Intel Core i9 13th Gen 13950HX 1.6GHz 	| NVIDIA GeForce RTX 4090 16GB GDDR6	| 32GB DDR5-5600 RAM	| 1TB SSD+1TB SSD	|4.5|	4499.99	|3699.99|	800	|0.18|
 
