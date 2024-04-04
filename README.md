@@ -20,6 +20,7 @@ This is a web scraping project using Selenium Python to extract the laptop searc
 # Prerequisites
 Python 3.6 or later
 Selenium WebDriver
+
 Additional Python libraries: pandas for data manipulation.
 
 # SQL Preview
